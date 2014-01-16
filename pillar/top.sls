@@ -4,7 +4,6 @@ base:
     - users
     - raven
     - salt
-    - slashetc
     - graphite.production
 
   'postgres*':
